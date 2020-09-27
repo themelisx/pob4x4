@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <Preference
+            android:title="@string/app_name"
+            android:summary="@string/settings"
+            android:icon="@drawable/arrow_back_gray"
+            android:key="btn_back" >
+        </Preference>
+
+        <Preference
+            android:title="@string/select_language"
+            android:key="select_language" >
+        </Preference>
+
+        <Preference
+            android:title="@string/select_format"
+            android:key="select_format" >
+        </Preference>
+
+</PreferenceScreen>

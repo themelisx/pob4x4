@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Π.Ο.Β. 4x4</string>
+
+	<string name="navigator_not_installed">Δεν είναι δυνατή η εύρεση εγκατεστημένου προγράμματος πλοήγησης</string>
+	<string name="permissions_denied">Η εφαρμογή δεν μπορεί να λειτουργήσει χωρίς τα δικαιώματα</string>
+
+    <string name="suffix_meters">μ</string>
+	<string name="suffix_kilometers">χλμ</string>
+
+	<string name="location_lat">γεωγρ. πλάτος</string>
+	<string name="location_lon">γεωγρ. μήκος</string>
+	<string name="altitude">υψόμετρο</string>
+
+	<string name="waiting_gps">Αναμονή GPS…</string>
+	<string name="gps_is_off">Το GPS είναι απενεργοποιημένο</string>
+    <string name="in_view">σε θέα</string>
+	<string name="in_fix">σε χρήση</string>
+	<string name="accuracy">ακρίβεια</string>
+    <string name="save_location">Αποθήκευση τρέχουσας τοποθεσίας</string>
+	<string name="location_title">Επιλέξτε τίτλο</string>
+	<string name="save">Αποθήκευση</string>
+	<string name="my_location">Η τοποθεσία μου</string>
+	<string name="saved_places">Αποθηκευμένες τοποθεσίες</string>
+    <string name="loading">Φόρτωση</string>
+	<string name="date_time">Ημερομηνία / ώρα</string>
+    <string name="show_map">Προβολή στον χάρτη</string>
+	<string name="edit">Επεξεργασία</string>
+    <string name="delete">Διαγραφή</string>
+	<string name="coordinates">Συντεταγμένες</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="confirm_delete">Είστε σίγουρος ότι θέλετε να διαγράψετε αυτή την τοποθεσία;</string>
+	<string name="navigate">Πλοηγηθείτε εδώ</string>
+    <string name="select_language">Επιλογή γλώσσας</string>
+    <string name="select_format">Επιλέξτε την μορφή εμφάνισης των συντεταγμένων</string>
+    <string name="decimal">δεκαδικό (DDD.DDDDD °)</string>
+    <string name="degrees">μοίρες (DDD ° MM \'SS.S)</string>
+	<string name="settings">Ρυθμίσεις</string>
+	<string name="no_gps_continue">Η τοποθεσία σας δεν βρέθηκε ακόμα. Θέλετε να συνεχίσετε χωρίς αυτά τα στοιχεία;</string>
+	<string name="warning_msg">Η χρήση της εφαρμογής έχει σαν αποτέλεσμα την αποστολή μηνύματος SMS στο τηλέφωνο της ΠΟΒ4Χ4. \nΕκτός από την άσκοπη χρέωση, η αλόγιστη απασχόληση του αριθμού κακόβουλα ή και για δοκιμές, θα οδηγήσει στον αποκλεισμό του αριθμού σας από το σύστημα ειδοποίησης. \n\nΕπιλέξτε τον παραλήπτη αυτού του SMS</string>
+	<string name="warning">Προσοχή</string>
+	<string name="final_info">Η εφαρμογή θα προωθήσει την τοποθεσία σας στην εφαρμογή μηνυμάτων. Συμπληρώστε το όνομά σας, συνοπτική περιγραφή του προβλήματος και πατήστε αποστολή</string>
+    <string name="problem">Πρόβλημα:</string>
+	<string name="title_and_programmer">Προγραμματιστής: Χρήστος Θεμελής</string>
+	<string name="friends">Από τις επαφές μου</string>
+
+</resources>

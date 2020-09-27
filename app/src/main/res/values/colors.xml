@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#FF0000</color>
+    <color name="green">#00ff00</color>
+
+
+    <color name="black">#000000</color>
+    <color name="black_light_back">#1a1a1a</color>
+    <color name="black_light">#111111</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_main">#ffffffff</color>
+    <color name="text_main2">#80ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="title_back">#1b1b1b</color>
+    <color name="black_transparent">#80000000</color>
+
+</resources>
