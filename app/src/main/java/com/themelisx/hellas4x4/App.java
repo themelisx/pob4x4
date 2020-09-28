@@ -214,21 +214,8 @@ public class App extends Application {
 		}
 	}
 
-	private int getMaicVersion(Context context) {
-		int version = -1;
-		try {
-			PackageInfo pInfo = context.getPackageManager().getPackageInfo("com.mls.voice_center", 0);
-			version = pInfo.versionCode;
-		} catch (PackageManager.NameNotFoundException e1) {
-			Log.e(this.getClass().getSimpleName(), "Name not found", e1);
-		}
-		return version;
-	}
-
 	public boolean init(Context context){
 		mContext = context;
-
-
 		return true;
 	}
 	
