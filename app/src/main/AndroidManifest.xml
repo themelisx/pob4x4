@@ -11,6 +11,7 @@
 
     <application
         android:name="com.themelisx.hellas4x4.App"
+        android:requestLegacyExternalStorage="true"
         android:allowBackup="true"
         android:configChanges="layoutDirection"
         android:icon="@mipmap/ic_launcher"
